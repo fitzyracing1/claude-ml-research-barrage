@@ -1,0 +1,40 @@
+# Claude ml-research archive
+
+> A Claude conversation archive on the machine-learning research thread.
+
+## Purpose
+Explain this repo as a saved conversation shelf, not as a trained model. Source: fitzyracing1/claude-ml-research.
+
+## How it works (plain English)
+1. Keep the chat history in this repo.
+2. Use it to recall ML research talk.
+3. Do not treat the archive as weights or a paper submission.
+
+## Key ideas
+- Conversation archive
+- ML research thread
+- Family of claude-* repos
+
+## The actual code
+```
+# source: fitzyracing1/claude-ml-research
+archive = conversation_shelf("ml-research")
+read(archive)
+```
+
+## Line-by-line translation
+1. conversation_shelf("ml-research") → “this folder holds that thread”
+2. read(archive) → “open the saved talk”
+
+## Decisions the program makes
+- If a reader wants runnable models → send them to an Everything-AI or sandbox repo
+- If a reader wants the chat → stay here
+
+## What a person would notice
+A boxed conversation about research, not a checkpoint file.
+
+## Current status
+Barrage clone.
+
+## Next possible steps
+Open the archive.

@@ -1,2 +1,5 @@
 # claude-ml-research-barrage
-Barrage plain-language clone of fitzyracing1/claude-ml-research
+
+Barrage clone of [fitzyracing1/claude-ml-research](https://github.com/fitzyracing1/claude-ml-research).
+
+Read [listing.barrage](listing.barrage).
